@@ -560,9 +560,3 @@ body {
 		margin-left: 5%;
 	}
 }
-
-@media (max-width: 320px) {
-	.section {
-		max-height: 26em;
-	}
-}
